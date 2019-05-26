@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.primerParcial;
+ package ar.edu.unlam.pb2.primerParcial;
 
 public class Fabricante {
 	private String nombre;
