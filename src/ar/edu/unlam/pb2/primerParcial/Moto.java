@@ -21,7 +21,7 @@ public class Moto extends Vehiculo {
 
 	public void incrementarVelocidad(Integer velocidadActual) {
 		if (velocidadActual < velocidadMaxima) {
-			this.velocidadActual = velocidadActual;
+			this.velocidadActual++;
 		}
 	}
 
